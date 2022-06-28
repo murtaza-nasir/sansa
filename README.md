@@ -56,7 +56,7 @@ dataset = rbind(minority, majority)
 ggplot(dataset) + geom_point(aes(x1, x2, color = target))
 ```
 
-<img src="man/figures/README-Generate dataset-1.png" width="100%" />
+<img src="man/figures/README-dataset-1.png" width="100%" />
 
 This imbalanced dataset can be balanced by SANSA using the `sansa`
 function.
