@@ -1,0 +1,16 @@
+citHeader("To cite sansa in publications use:")
+
+citEntry(
+  entry    = "Article",
+  title    = "Improving Imbalanced Machine Learning with Neighborhood-Informed Synthetic Sample Placement",
+  author   = c(as.person("Murtaza Nasir"), as.person("Ali Dag"), as.person("Serhat Simsek"), as.person("Anton Ivanov"), as.person("Asil Oztekin")),
+  journal  = "Journal of Management Information Systems",
+  year     = 2022,
+  volume   = 3,
+  number   = ,
+  pages    = ,
+  url      = ,
+  textVersion = paste(
+
+  )
+)
