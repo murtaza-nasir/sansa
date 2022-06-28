@@ -48,7 +48,7 @@ library(ggplot2)
 
 Now lets generate an imbalanced dataset.
 
-```{r Generate dataset}
+```{r dataset}
 
 minority = data.frame(x1 = rnorm(50, 15, 2),
                       x2 = rnorm(50, 25, 10),
