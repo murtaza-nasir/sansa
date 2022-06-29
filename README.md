@@ -77,5 +77,5 @@ training pipeline.
 
 ## Details & Reference
 
-Full details about the algorithm as well as benchmarks are available in
-the accompanying publication
+Details about the algorithm as well as benchmarks are available in the
+accompanying publication that will be added here shortly.
