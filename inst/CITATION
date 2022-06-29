@@ -6,11 +6,9 @@ citEntry(
   author   = c(as.person("Murtaza Nasir"), as.person("Ali Dag"), as.person("Serhat Simsek"), as.person("Anton Ivanov"), as.person("Asil Oztekin")),
   journal  = "Journal of Management Information Systems",
   year     = 2022,
-  volume   = 3,
-  number   = ,
-  pages    = ,
-  url      = ,
-  textVersion = paste(
-
-  )
+  volume   = 39,
+  number   = 3,
+  pages    = 20,
+  url      = "https://www.jmis-web.org/",
+  textVersion = paste("Machine learning is widely used in information-systems design. Yet, training algorithms on imbalanced datasets may severely affect performance on unseen data. For example, in some cases in healthcare, fintech, or cybersecurity contexts, certain subclasses are difficult to learn because they are underrepresented in training data. This R package offers a flexible and efficient solution based on a new synthetic average neighborhood sampling algorithm (SANSA), which, in contrast to other solutions, introduces a novel “placement” parameter that can be tuned to adapt to each dataset’s unique manifestation of the imbalance.")
 )

@@ -21,7 +21,7 @@ Authors@R:
            family = "Oztekin",
            role = c("ths"))
            )
-Description: Machine learning is widely used in information-systems design. Yet, training algorithms on imbalanced datasets may severely affect performance on unseen data. For example, in some cases in healthcare, fintech, or cybersecurity contexts, certain subclasses are difficult to learn because they are underrepresented in training data. This R package offers a flexible and efficient solution based on a new synthetic average neighborhood sampling algorithm (SANSA), which, in contrast to other solutions, introduces a novel “placement” parameter that can be tuned to adapt to each dataset’s unique manifestation of the imbalance. 
+Description: Machine learning is widely used in information-systems design. Yet, training algorithms on imbalanced datasets may severely affect performance on unseen data. For example, in some cases in healthcare, financial, or internet-security contexts, certain sub-classes are difficult to learn because they are underrepresented in training data. This R package offers a flexible and efficient solution based on a new synthetic average neighborhood sampling algorithm ('SANSA'), which, in contrast to other solutions, introduces a novel “placement” parameter that can be tuned to adapt to each dataset's unique manifestation of the imbalance. 
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
