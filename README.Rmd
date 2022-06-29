@@ -77,4 +77,4 @@ SANSA returns a list object that can be used directly within the `caret` trainin
 
 ## Details & Reference
 
-Full details about the algorithm as well as benchmarks are available in the accompanying publication that will be added here shortly. 
+Details about the algorithm as well as benchmarks are available in the accompanying publication that will be added here shortly. 
