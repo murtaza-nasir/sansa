@@ -74,3 +74,8 @@ ggplot(balanced) + geom_point(aes(x1, x2, color = target))
 
 SANSA returns a list object that can be used directly within the `caret`
 training pipeline.
+
+## Details & Reference
+
+Full details about the algorithm as well as benchmarks are available in
+the accompanying publication
