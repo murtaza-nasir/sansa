@@ -7,7 +7,7 @@ Authors@R:
            family = "Nasir",
            role = c("aut", "cre"),
            email = "mail@murtaza.cc",
-           comment = c(ORCID = " 0000-0002-4481-065X ")),
+           comment = c(ORCID = "0000-0002-4481-065X")),
         person(given = "Ali",
            family = "Dag",
            role = c("ctb")),
