@@ -33,7 +33,6 @@
 #' @import ggplot2
 sansa <-function (x, y, lambda = 0, ksel = 3) {
 
-  set.seed(1001)
   dat <- if (is.data.frame(x)) x else as.data.frame(x)
   duplicates <- duplicated(dat)
   dat <- dat[!duplicates,]
